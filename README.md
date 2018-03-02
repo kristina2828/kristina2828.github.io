@@ -8,7 +8,7 @@
 <li>Добавить ссылку на личную страницу в списке группы с использованием fork.<br>
 <li>Разработать требуемую UML-диаграмму, разместить в wiki как иллюстрацию к тексту.<br>
 <ol><strong>Список ссылок на различные ресурсы:</strong><br>  
-<li><a href="https://github.com/kristina2828">Личная страница</a><br>
-<li><a href="https://github.com/kristina2828/kristina2828.github.io">Личный репозиторий</a><br>
-<li><a href="https://github.com/kristina2828/kristina2828.github.io/wiki">Страница wiki</a><br>
-<li><a href="https://kristina2828.github.io">Index</a></ol><br>
+1. <a href="https://github.com/kristina2828">Личная страница</a><br>
+2. <a href="https://github.com/kristina2828/kristina2828.github.io">Личный репозиторий</a><br>
+3. <a href="https://github.com/kristina2828/kristina2828.github.io/wiki">Страница wiki</a><br>
+4. <a href="https://kristina2828.github.io">Index</a></ol><br>
